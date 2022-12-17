@@ -1,11 +1,13 @@
-# Stock-Analysis1
+****# Stock-Analysis1
 # VBA Challenge – Written Analysis of Results
 
 ## Overview of Project
 
-### Purpose: The purpose of this project is to assist Steve with analyzing the entire stock market over a few years. This analysis will allow Steve to determine the most viable stocks for his parents to invest in. The previous DQ analysis script was refactored and used to analyze over 3000 stock market transactions This may assist with making wise investment decisions. In addition, the refactoring also would help measure the scripts performance using the stock market data set for 2017 & 2018.
+### Purpose: 
+The purpose of this project is to assist Steve with analyzing the entire stock market over a few years. This analysis will allow Steve to determine the most viable stocks for his parents to invest in. The previous DQ analysis script was refactored and used to analyze over 3000 stock market transactions This may assist with making wise investment decisions. In addition, the refactoring also would help measure the scripts performance using the stock market data set for 2017 & 2018.
 
-## Results: The scripts helped us to determine the stock volume traded in the stock market in 2017 and 2018 using the 12 stock market tickers and their performance for both years. The anlysis of the 12 stock tickers, show that the SPWR stock had the highest trade volume of over 782 million stocks in 2017 followed by FSLR and CSIQ respectively. Although these stocks traded the most, DQ and SEDG had the highest return on investment with 199.9% and 184.5% return respectively. TERP suffered 7.2% loss for the year. 
+## Results: 
+The scripts helped us to determine the stock volume traded in the stock market in 2017 and 2018 using the 12 stock market tickers and their performance for both years. The anlysis of the 12 stock tickers, show that the SPWR stock had the highest trade volume of over 782 million stocks in 2017 followed by FSLR and CSIQ respectively. Although these stocks traded the most, DQ and SEDG had the highest return on investment with 199.9% and 184.5% return respectively. TERP suffered 7.2% loss for the year.
  
 For the following year 2018, stock performance dropped compared to 2017. The RUN and ENPH stocks performed the best with 84.0% and 81.9% returns respectively. However, high trade volume may not have positively contributed to their gain as SPWR with 2nd largest trade had 44.6% decline in returns. The DQ stock which Steve was interested in saw a steep decline with the largest of all stock losses at 62.6% loss. 
  
